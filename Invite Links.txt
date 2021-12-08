@@ -1,0 +1,12 @@
+Admin (Reccomended but only server admins can add it):
+https://discord.com/api/oauth2/authorize?client_id=906584884435353621&permissions=8&scope=bot
+
+Manager (Has Slightly More Permissions Than Mod)
+https://discord.com/api/oauth2/authorize?client_id=906584884435353621&permissions=284510326&scope=bot
+
+Mod (Most mods should be able to add this):
+https://discord.com/api/oauth2/authorize?client_id=906584884435353621&permissions=284510278&scope=bot
+
+Member (Not reccomended, many commands will not work but it means that if you dont 
+trust the bot then it cant do any harm if you use this invite link):
+https://discord.com/api/oauth2/authorize?client_id=906584884435353621&permissions=16074816&scope=bot
