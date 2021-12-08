@@ -1,0 +1,14 @@
+{
+    "UID": {
+        "wallet": bal,
+        "bank": bal,
+        "inventory": {items},
+        "job": "Job"
+    },
+    "UID": {
+        "wallet": Bal,
+        "bank": Bal,
+        "inventory": {items},
+        "job": "Job"
+    }
+}
