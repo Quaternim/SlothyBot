@@ -1,3 +1,6 @@
 This folder is where the ".json" files are stored. 
 Please note that the folder is not in the original source code, 
 it is just in the github version to keep it tidy.
+
+The Users/Owners do not interact with any of these files,
+they are all created and edited by the bot.
