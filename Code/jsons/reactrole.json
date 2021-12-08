@@ -1,0 +1,16 @@
+        The reaction roles currently do not work and will be fixed soon 
+[
+    {},
+    {
+        "role_name": "rolename here",
+        "role_id": role id here,
+        "emoji": "emoji to react with here",
+        "message_id": the message id here
+    },
+    {
+        "role_name": "rolename here",
+        "role_id": role id here,
+        "emoji": "emoji to react with here",
+        "message_id": the message id here 
+    }
+]
