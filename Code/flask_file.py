@@ -1,3 +1,8 @@
+
+# THIS IS NOT READY YET, IT IS PART OF THE WORK SYSTEM
+
+
+
 from flask import Flask, render_template, redirect, url_for, request, session, flash, abort
 import json
 from threading import Thread
