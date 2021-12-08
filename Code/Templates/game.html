@@ -1,0 +1,6 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>This is the game page for game <span id="gameid">{{ messageid }}</span></h1>
+<script type="text/javascript" src="../game_data.json"></script>
+	<script src={{ url_for('static',filename='index.js') }}></script>
+{% endblock %}
